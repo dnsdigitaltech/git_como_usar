@@ -310,7 +310,7 @@ Git como usar passo a passo
                         <li>
                             Crie um repositório no GitHub
                             <p>Acesse seu GitHub e clique em criar novo repositório</p>
-                            <p>Configure se ele será <b>Public</b> ou <b>Private</p>
+                            <p>Configure se ele será <b>Public</b> ou <b>Private</b>
                             <p>Ao criar vai aparece uma tela com os comando de configurações deste diretório, vamos pegar todo endereço do git remote do nosso diretório.</p>
                         </li>
                         <li>
@@ -372,7 +372,7 @@ Git como usar passo a passo
                                 </li>
                                 <li>
                                 O envio é rejeitado se o repositório local não estiver sincronizado
-                                <code> git push {remote} {branch}<code> <code> git push</code>
+                                <code> git push {remote} {branch}</code> <code> git push</code>
                                 </li>
                             </ul>               
                         </li>
