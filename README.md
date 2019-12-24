@@ -188,7 +188,7 @@ Git como usar passo a passo
             <ul type="disc">
                 <li>
                     Instalar o Git:
-                    <p>sudo apt-get install git</p>
+                    <p><code>sudo apt-get install git</code></p>
                 </li>
                 <li>
                     Escolha sua interface gráfica
